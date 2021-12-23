@@ -72,3 +72,63 @@ a.link-a {
     font-weight: 400;
     color: #fff;
 }
+.thard {
+    background-image: url("latest-work-bg.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 75vh;
+    background-position: center center;
+}
+h3 {
+    font-size: 40px;
+    text-align: center;
+    margin-top: 100px;
+    font-weight: 500;
+}
+.work {
+    width: 70%;
+    margin-left: 15%;
+}
+img {
+    width: 30%;
+    float: left;
+    background-repeat: no-repeat;
+    padding: 1%;
+}
+
+.what {
+    background-image: url("footer-bg.png");
+    text-align: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left center;
+    height: 90vh;
+}
+h4 {
+    line-height: .1px;
+}
+.what-p {
+    width: 28%;
+    margin: auto;
+    font-weight: 500;
+    padding: 2% 0;
+}
+.box {
+    background-image: linear-gradient(45deg,#ec4d7ff3, #ec4d80);
+    width: 45%;
+    padding: 17px 0;
+    margin: auto;
+    border-radius: 10px;
+}
+.box p {
+    color: #fff;
+    padding-top: 5px;
+}
+.box h4 a {
+    text-decoration: none;
+    font-size: 30px;
+    color: #fff;
+}
+footer {
+    text-align: center;
+}

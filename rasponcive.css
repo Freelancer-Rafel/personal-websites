@@ -1,0 +1,208 @@
+@media all and (max-width: 980px) {
+    h1 {
+        font-size: 30px;
+    }
+    section {
+        height: 40vh;
+    }
+    .thard {
+        height: 40vh;
+    }
+    .what {
+        height: 50vh;
+    }
+}
+@media all and (max-width: 840px) {
+    h2 {
+        margin-top: 0;
+    }
+    .box {
+        width: 50%;
+    }
+    section {
+        height: 40vh;
+    }
+    .thard {
+        height: 35vh;
+    }
+}
+@media all and (max-width: 740px) {
+    a.link {
+        padding: 5px 10px;
+        font-size: 12px;
+    }
+    a.link-a {
+        padding: 5px 10px;
+        font-size: 12px;
+    }
+    h3 {
+        font-size: 30px;
+    }
+    p {
+        font-size: 15px;
+    }
+    .what-p {
+        width: 40%;
+    }
+    .box {
+        width: 60%;
+    }
+    .box h4 a {
+        font-size: 25px;
+    }
+    .box p {
+        padding-top: 0;
+    }
+    h1 {
+        font-size: 25px;
+    }
+    footer p {
+          font-size: 12px;
+    }
+}
+@media all and (max-width: 680px) {
+    p {
+        font-size: 12px;
+    }
+    .box {
+        padding: 5px 0;
+    }
+    .box h4 a {
+        font-size: 20px;
+    }
+    h4 {
+        line-height: 0px;
+    }
+    p {
+        margin-bottom: 20px;
+    }
+    .box {
+        padding: 10px 0;
+    }
+}
+@media all and (max-width: 620px) {
+    h1 {
+        font-size: 20px;
+    }
+    p {
+        font-size: 10px;
+    }
+    a.link,a.link-a {
+        padding: 4px 7px;
+        font-size: 10px;
+    }
+   
+}
+@media all and (max-width: 500px) {
+    h1 {
+        font-size: 15px;
+    }
+    h2 {
+        font-size: 25px;
+    }
+    section {
+        height: 40vh;
+    }
+    .box h4 a {
+        font-size: 15px;
+    }
+    h3 {
+        font-size: 25px;
+    }
+    p {
+        margin-top: 0;
+    }
+    .what-p {
+        width: 60%;
+    }
+    .thard {
+        height: 25vh;
+    }
+    section {
+        height: 40vh;
+    }
+}
+@media all and (max-width: 400px) {
+    p {
+        font-size: 8px;
+        margin-bottom: 15px;
+    }
+    .box h4 a {
+        font-size: 12px;
+    }
+    .box {
+        padding: 15px 5px;
+    }
+    .thard {
+        height: 40vh;
+    }
+    section {
+        height: 30vh;
+    }
+    .what {
+        height: 45vh;
+    }
+    .thard {
+        height: 20vh;
+    }
+
+}
+@media all and (max-width: 380px) {
+    h1 {
+        font-size: 13px;
+        margin-bottom: 5px;
+    }
+    h2 {
+        font-size: 20px;
+    }
+    footer p {
+        font-size: 10px;
+    }
+}
+@media all and (max-width: 380px) {
+    h2 {
+        font-size: 15px;
+    }
+    h1 {
+        font-size: 10px;
+        margin-top: 5px;
+        margin-bottom: 5px;
+    }
+    a.link, a.link-a {
+        padding: 5px;
+        font-size: 7px;
+    }
+    p {
+        font-size: 7px;
+        margin-bottom: 10px;
+    }
+    .box {
+        padding: 10px;
+    }
+    h3 {
+        font-size: 20px;
+    }
+    footer p {
+        font-size: 7px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
